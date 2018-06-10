@@ -1,0 +1,10 @@
+{
+  "name": "xxxx-google-home",
+  "description": "",
+  "memory": 128,
+  "timeout": 5,
+  "runtime": "nodejs8.10",
+  "handler": "index.handle",
+  "role": "arn:aws:iam::xxxxxxxxxxxx:role/xxxx-google-home_lambda_function",
+  "environment": {}
+}
